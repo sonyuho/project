@@ -5,11 +5,11 @@
 | 항목 | 내용 |
 |---|---|
 | 게임 제목 | **O O O** |
-| 장르 | FPS / Action / Survival |
+| 장르 | 퍼즐 어드벤처 |
 | 개발 엔진 | Unreal Engine 5.4.4 |
 | 플랫폼 | PC |
 | 플레이 방식 | Single Player |
-| 시점 | First Person |
+| 시점 | 3인칭 |
 | 예상 플레이 시간 | 10~15분 |
 
 ### 한 줄 소개
