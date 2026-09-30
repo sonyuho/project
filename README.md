@@ -1,4 +1,4 @@
-# FPS Game Planning Example
+# Game Planning Example
 
 ## 1. 게임 개요
 
